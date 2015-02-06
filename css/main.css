@@ -9,12 +9,14 @@ h1{
   background-color: #ffe524;
   padding: 1em 1em 1em 1em;
   margin: 0;
+  text-align: center;
   } h2{
   font-weight: bold;
   font-size: 4rem;
   color: #b32f52;
   margin: 0.5em;
   font-family: 'Sigmar One', cursive;
+  border-top: solid #ffe524;
 }
 nav{
   font-weight: normal;
@@ -57,4 +59,6 @@ figure img{
   width: 100%;
   background-color: #fffce0;
   padding: 2em;
+  border: solid #c5b844;
+  border-radius:18px;
 }
