@@ -1,3 +1,46 @@
 html{
-  background-color:yellow;
+  background-color:white;
+}
+h1{
+  font-weight:bold;
+  font-size: 6rem;
+  color: #b32f52;
+  font-family: "Sigmar One", cursive;
+  background-color: #ffe524;
+  padding: 1em 1em 1em 1em;
+  margin: 0;
+  } h2{
+  font-weight: bold;
+  font-size: 4rem;
+  color: #b32f52;
+  font-family: 'Sigmar One', cursive;
+}
+nav{
+  font-weight: normal;
+  color: white;
+  font-family: "Georgia";
+  background-color: #ffe524;
+  text-align:center;
+  padding: 2em;
+}
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  align:center;
+}
+nav li{
+  display: inline-block;
+}
+nav a{
+  display: inline-block;
+  padding: 1em;
+  background-color: #cc3865;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  width: 6em;
+}
+body{
+  margin:0;
 }
