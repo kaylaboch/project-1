@@ -13,6 +13,7 @@ h1{
   font-weight: bold;
   font-size: 4rem;
   color: #b32f52;
+  margin: 0.5em;
   font-family: 'Sigmar One', cursive;
 }
 nav{
@@ -43,4 +44,17 @@ nav a{
 }
 body{
   margin:0;
+  font-family: "Georgia";
+  font-size: 1em;
+}
+blockquote{
+  text-align:center;
+  color:#b2a215;
+  font-size: 2rem;
+  font-family: "Georgia";
+}
+figure img{
+  width: 100%;
+  background-color: #fffce0;
+  padding: 2em;
 }
